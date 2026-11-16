@@ -1,0 +1,16 @@
+# GitHub Pages settings for the resume site
+title: Scott Phelps
+description: Senior Technical Program Manager and Web Platform Architect in Seattle, WA
+theme: minima
+lang: en
+
+# Footer links
+github_username: scottphelps
+linkedin_username: scottphelps
+
+# Leave url and baseurl unset: GitHub Pages fills them in for both
+# username.github.io sites and project sites.
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
