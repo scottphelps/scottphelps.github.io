@@ -9,7 +9,7 @@ permalink: /
 
 Seattle, WA · [tscottphelps@gmail.com](mailto:tscottphelps@gmail.com) · [linkedin.com/in/scottphelps](https://www.linkedin.com/in/scottphelps) · [tscottphelps.com](https://www.tscottphelps.com)
 
-Optimizely CMS · WordPress · MarTech · HIPAA & WA MHMDA Data Privacy · Technical SEO, GEO/AEO, Schema.org · Zero-Downtime Migrations · AI-Assisted Development
+Enterprise CMS · WordPress · MarTech · HIPAA & WA MHMDA Data Privacy · Technical SEO, GEO/AEO, Schema.org · Zero-Downtime Migrations · AI-Assisted Development
 
 ---
 
@@ -19,7 +19,7 @@ I build web platforms and I run them. I've been the developer writing the templa
 
 I trained as a journalist, and it still shapes how I work: figure out what the audience needs, structure it clearly, and ship on deadline. I was hand-coding HTML long before it was my job. I spent three years at a web agency building PHP and CSS templating patterns that were reused across client sites, and two years as an analyst in a small business unit at Roche Pharmaceuticals, an early grounding in working inside a regulated industry.
 
-Then came 17+ years at Seattle Children's Hospital. I was brought on to move the site from static files to its first CMS, and grew from front-end developer to Senior Technical Program Manager for web experience and digital platforms.
+Then came 17+ years at Seattle Children's Hospital. I was brought on to move the site from static files to its first enterprise CMS, and grew from front-end developer to Senior Technical Program Manager for web experience and digital platforms.
 
 ## Highlights
 
@@ -79,7 +79,7 @@ Lead front-end developer for the flagship site.
 
 Seattle Children's Hospital · Seattle, WA · Oct 2008 – 2014
 
-Brought on to move the hospital's site from static HTML pages and custom .NET functionality to Ektron, its first CMS, alongside the 2008 rebrand.
+Brought on to move the hospital's site from static HTML pages and custom .NET functionality to Ektron, its first enterprise CMS, alongside the 2008 rebrand.
 
 - Started the organization's SEO program in 2009, along with social media optimization, and owned SEO for the next 17 years.
 - Developed the web analytics program and moved it from Adobe Analytics to Google Analytics in 2010, removing that cost from the budget. Owned analytics for the next 17 years.
